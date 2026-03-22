@@ -1,0 +1,9 @@
+{
+  "name": "multisig-vault-core",
+  "version": "1.0.0",
+  "description": "M-of-N Multi-Signature Wallet",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
